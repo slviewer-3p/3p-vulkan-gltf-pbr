@@ -12,7 +12,7 @@
       <key>license</key>
       <string>Copyright (c) 2018 Sascha Willems</string>
       <key>license_file</key>
-      <string>LICENSE</string>
+      <string>LICENSES/vulkan_gltf.txt</string>
       <key>name</key>
       <string>vulkan_gltf</string>
       <key>platforms</key>
@@ -40,10 +40,6 @@
               <string>default</string>
             </map>
           </map>
-          <key>manifest</key>
-          <array>
-            <string>data/shaders</string>
-          </array>
           <key>name</key>
           <string>common</string>
         </map>
